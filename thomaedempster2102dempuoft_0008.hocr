@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thomaedempster2102dempuoft_0008.png"; bbox 0 0 2118 2952; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 715 2354 1229 2471">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 715 2354 1229 2471">
+     <span class='ocr_line' id='line_1_1' title="bbox 836 2354 1113 2398; baseline -0.029 -1"><span class='ocrx_word' id='word_1_1' title='bbox 836 2355 917 2398; x_wconf 66' lang='lat' dir='ltr'>JHE</span> <span class='ocrx_word' id='word_1_2' title='bbox 945 2354 1113 2394; x_wconf 66' lang='grc' dir='ltr'>ιιΒκΑκγ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 715 2407 1229 2471; baseline -0.037 -10"><span class='ocrx_word' id='word_1_3' title='bbox 715 2414 964 2471; x_wconf 58' lang='grc' dir='ltr'>υμινεκεΠΥ</span> <span class='ocrx_word' id='word_1_4' title='bbox 990 2413 1042 2453; x_wconf 68' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_5' title='bbox 1070 2407 1229 2451; x_wconf 63' lang='grc' dir='ltr'>ΟυειΡΗ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

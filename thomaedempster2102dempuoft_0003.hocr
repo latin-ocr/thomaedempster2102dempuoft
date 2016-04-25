@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thomaedempster2102dempuoft_0003.png"; bbox 0 0 2232 2946; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 520 2167 803 2186">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 520 2167 803 2186">
+     <span class='ocr_line' id='line_1_1' title="bbox 520 2167 803 2186; baseline 0.011 -3"><span class='ocrx_word' id='word_1_1' title='bbox 520 2167 583 2183; x_wconf 70' lang='lat' dir='ltr'><strong>xmo</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 601 2168 680 2184; x_wconf 67' lang='lat' dir='ltr'>FRESS</span> <span class='ocrx_word' id='word_1_3' title='bbox 696 2169 740 2185; x_wconf 83' lang='grc' dir='ltr'><strong>ΝΟ.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 756 2169 803 2186; x_wconf 77' lang='lat'><strong>³0³</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 852 783 1073 827">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 852 783 1073 827">
+     <span class='ocr_line' id='line_1_2' title="bbox 852 783 1073 827; baseline -0.005 -1"><span class='ocrx_word' id='word_1_5' title='bbox 852 787 954 826; x_wconf 74' lang='lat' dir='ltr'><strong>Dete</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 987 783 1073 827; x_wconf 84' lang='lat' dir='ltr'><strong>due</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 713 859 1177 2160">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 713 859 1177 2160">
+     <span class='ocr_line' id='line_1_3' title="bbox 713 859 1177 2160; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 713 859 1177 2160; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
